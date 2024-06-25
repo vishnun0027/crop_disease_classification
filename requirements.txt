@@ -1,0 +1,4 @@
+Pillow==10.3.0
+streamlit==1.36.0
+torch==2.2.2+cu121
+transformers==4.39.3
