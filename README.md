@@ -3,7 +3,7 @@
 Image classification assigns a label or class to an image. Fine-tune ViT on the [Crop_Disease](https://huggingface.co/datasets/vishnun0027/Crop_Disease) dataset to classify a Crop Disease in an image
 
 ## Screenshots
-<p>🙂 positive</p>
+<p>Prediction</p>
 <img src="temp\img\Screenshot.png" height="75%" width="75%">
 
 ## Setup
